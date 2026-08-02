@@ -893,7 +893,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-sso-oidc": "3.808.0",
-    "@kafkajs/confluent-schema-registry": "3.8.0",
+    "@kafkajs/confluent-schema-registry": "4.0.8",
     "@mozilla/readability": "0.6.0",
     "@n8n/config": "workspace:*",
     "@n8n/di": "workspace:*",
@@ -958,7 +958,7 @@
     "semver": "7.5.4",
     "showdown": "2.1.0",
     "simple-git": "catalog:",
-    "snowflake-sdk": "2.1.0",
+    "snowflake-sdk": "2.1.1",
     "ssh2-sftp-client": "12.1.0",
     "tmp-promise": "3.0.3",
     "ts-ics": "1.2.2",
