@@ -36,7 +36,7 @@
     "@oclif/core": "4.0.7",
     "axios": "catalog:",
     "dotenv": "17.2.3",
-    "nanoid": "catalog:",
+    "nanoid": "5.1.16",
     "zx": "^8.8.5"
   },
   "devDependencies": {
