@@ -31,16 +31,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "3.808.0",
+    "@aws-sdk/client-secrets-manager": "3.896.0",
     "@testcontainers/k3s": "catalog:",
     "@testcontainers/kafka": "catalog:",
     "@testcontainers/mysql": "catalog:",
     "@testcontainers/postgresql": "catalog:",
-    "@testcontainers/redis": "catalog:",
+    "@testcontainers/redis": "12.0.0",
     "get-port": "^7.1.0",
     "mockserver-client": "^5.15.0",
     "kafkajs": "catalog:",
-    "testcontainers": "catalog:",
+    "testcontainers": "12.0.0",
     "undici": "catalog:undici-v7"
   },
   "devDependencies": {
