@@ -45,7 +45,7 @@
     "lodash": "catalog:",
     "n8n-core": "workspace:*",
     "n8n-workflow": "workspace:*",
-    "nanoid": "catalog:",
+    "nanoid": "5.1.16",
     "p-lazy": "3.1.0",
     "reflect-metadata": "catalog:",
     "uuid": "catalog:",
