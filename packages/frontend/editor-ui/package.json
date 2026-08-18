@@ -103,7 +103,7 @@
     "qrcode.vue": "^3.3.4",
     "regenerator-runtime": "0.14.1",
     "reka-ui": "^2.5.0",
-    "sanitize-html": "catalog:",
+    "sanitize-html": "2.17.6",
     "semver": "catalog:",
     "stream-browserify": "^3.0.0",
     "stylelint": "catalog:",
