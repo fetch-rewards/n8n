@@ -94,7 +94,7 @@
     "markdown-it-task-lists": "^2.1.1",
     "parse-diff": "^0.11.1",
     "reka-ui": "^2.5.0",
-    "sanitize-html": "catalog:",
+    "sanitize-html": "2.17.7",
     "vue-boring-avatars": "^1.3.0",
     "xss": "catalog:"
   },
