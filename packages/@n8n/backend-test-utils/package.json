@@ -32,7 +32,7 @@
     "n8n-workflow": "workspace:*",
     "reflect-metadata": "catalog:",
     "uuid": "catalog:",
-    "vitest": "catalog:",
+    "vitest": "4.1.11",
     "vitest-mock-extended": "catalog:"
   },
   "devDependencies": {
