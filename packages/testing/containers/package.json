@@ -41,7 +41,7 @@
     "mockserver-client": "^5.15.0",
     "kafkajs": "catalog:",
     "testcontainers": "catalog:",
-    "undici": "catalog:undici-v7"
+    "undici": "7.29.1"
   },
   "devDependencies": {
     "tsx": "catalog:"
