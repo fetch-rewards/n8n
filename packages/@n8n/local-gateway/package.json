@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@n8n/computer-use": "workspace:*",
-    "electron": "catalog:",
+    "electron": "41.10.6",
     "electron-store": "^8.2.0"
   },
   "devDependencies": {
