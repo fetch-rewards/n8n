@@ -25,7 +25,7 @@
   "dependencies": {
     "@n8n/backend-network": "workspace:*",
     "@n8n/utils": "workspace:*",
-    "axios": "catalog:"
+    "axios": "1.20.0"
   },
   "devDependencies": {
     "@n8n/typescript-config": "workspace:*",
